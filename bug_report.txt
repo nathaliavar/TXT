@@ -1,1 +1,12 @@
 
+  project: www.test.com
+  ID: 2856645
+  createdDate: 01.05.2022
+  name: Don't work button 'Enter' on the main page
+  priority: high
+  severity: high
+  stepsToReproduce: 1.Open site www.test.com 
+                    2.Click button 'Enter'
+  expectedResult: Open new page
+  actualeResult: Nothing happened
+
