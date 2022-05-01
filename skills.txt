@@ -1,0 +1,10 @@
+hardSkills: Postman
+	    Javascript
+	    Git
+	    QA theory
+ 	    Comand line
+	    Charles
+
+softSlills: Communication
+	    Discipline 
+	    Attentiveness
