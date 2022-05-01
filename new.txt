@@ -1,0 +1,4 @@
+name: Nat,
+age: 28,
+numberOfPets: 1,
+expectedSAlary: 1000
